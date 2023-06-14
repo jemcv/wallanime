@@ -23,6 +23,8 @@ API
 
 Demo
 
+https://github.com/jemcv/wallanime/assets/41255513/264856f2-e9b6-4553-ab6a-b700eb3ebf65
+
 
 
 
